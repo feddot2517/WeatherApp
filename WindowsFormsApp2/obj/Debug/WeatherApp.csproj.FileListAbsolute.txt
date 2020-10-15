@@ -1,0 +1,10 @@
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csprojAssemblyReference.cache
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Weather.resources
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csproj.GenerateResource.cache
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
