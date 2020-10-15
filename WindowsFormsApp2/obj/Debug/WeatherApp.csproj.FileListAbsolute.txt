@@ -3,8 +3,11 @@ C:\Users\Black\Desktop\Системы Программирования\WindowsFo
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csprojAssemblyReference.cache
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
-C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Weather.resources
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csproj.GenerateResource.cache
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csproj.CoreCompileInputs.cache
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WeatherApp.csproj.CopyComplete
+C:\Users\Black\Desktop\Системы Программирования\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.WeatherInterfaceMain.resources
