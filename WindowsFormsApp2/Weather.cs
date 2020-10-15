@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
+using System.Diagnostics;
 using System.Drawing;
 using System.Linq;
 using System.Text;
@@ -15,6 +16,15 @@ namespace WindowsFormsApp2
         public Weather()
         {
             InitializeComponent();
+            this.Load += onLoadEnd;
+        }
+        public void onLoadEnd(object sender, EventArgs e)
+        {
+            search.Click += onClickHandler;
+        }
+        private void onClickHandler(object sender, EventArgs e)
+        {
+            Debug.Print(inputCity.Text);
         }
     }
 }
